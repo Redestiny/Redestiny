@@ -23,7 +23,6 @@ My work primarily involves AI and Smart Contract Engineering, contributing prima
 <p>
   <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
@@ -35,18 +34,7 @@ My work primarily involves AI and Smart Contract Engineering, contributing prima
 - Twitter: https://x.com/0xCodada
 - Email: redestiny.coda@gmail.com
 
+## 📊 Stats and Activity
 
-<!--
-**Redestiny/Redestiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://streak-stats.demolab.com/?user=Redestiny&show_icons=true&theme=default" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Redestiny&langs_count=8&layout=compact&theme=default" height="192px"/></a>
