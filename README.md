@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hello, I'm [Codada](https://github.com/Redestiny) 👋
+
+I'm a Python Programmer, AI Enthusiast, and a Co-founder of [Distilink](https://distilink.chat). 
+
+My work primarily involves AI and Smart Contract Engineering, contributing primarily by releasing open source agent app, smart contract, and some quirky apps.
+
+## 📫 Get in Touch 
+
+- Twitter: https://x.com/0xCodada
+- Email: redestiny.coda@gmail.com
+
 
 <!--
 **Redestiny/Redestiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
