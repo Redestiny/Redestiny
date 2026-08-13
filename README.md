@@ -1,4 +1,4 @@
-# Hello, I'm [Codada](https://github.com/Redestiny) 👋
+# Hello, I'm [Codada](https://github.com/Redestiny) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
 
 I'm a Python Programmer, AI Enthusiast, and a Co-founder of [Distilink](https://distilink.chat). 
 
