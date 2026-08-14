@@ -31,8 +31,8 @@ My work primarily involves AI and Smart Contract Engineering, contributing prima
 
 ## 📫 Get in Touch 
 
-- Twitter: https://x.com/0xCodada
-- Email: redestiny.coda@gmail.com
+[![X](https://img.shields.io/badge/X-0xCodada-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/0xCodada)
+[![Gmail](https://img.shields.io/badge/Gmail-redestiny.coda@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:redestiny.coda@gmail.com)
 
 ## 📊 Stats and Activity
 
